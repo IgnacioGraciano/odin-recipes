@@ -1,0 +1,16 @@
+.Titule,
+.recipes{
+    text-align: center;
+}
+
+
+
+.Titule{
+    font-size: 45px;
+}
+
+button{
+    border-color: black;
+    border-radius: 5px;
+}
+
