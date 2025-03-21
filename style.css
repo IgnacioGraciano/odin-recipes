@@ -1,3 +1,7 @@
+body{
+    background-color: rgb(118, 146, 170);
+}
+
 .Titule,
 .recipes{
     text-align: center;
@@ -7,6 +11,7 @@
 
 .Titule{
     font-size: 45px;
+    font-family: Arial, Helvetica, sans-serif
 }
 
 button{
@@ -14,3 +19,10 @@ button{
     border-radius: 5px;
 }
 
+a{
+    color: rgb(58, 57, 57);
+}
+
+.img{
+    text-align: center;
+}
